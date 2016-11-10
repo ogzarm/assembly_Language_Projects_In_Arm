@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -g2 -Map=Dpad&Uart.map -O0 --gc-sections -LC:\Users\pc\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\Dpad&Uart -TC:\Users\pc\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\Dpad&Uart/arm-gcc-link.ld -g -L..\..\..\..\..\..\.. -luart_utils_lib">
+      <target file="Dpad&Uart.elf" lastModified="1584e59a103">
+         <source file="..\..\..\..\..\..\..\libuart_utils_lib.a" lastModified="1584dc88070"/>
+         <source file="..\obj\main.o" lastModified="1584e599ca0"/>
+         <source file="..\obj\startup_stm32f407xx.o" lastModified="1584e599cb3"/>
+      </target>
+   </processor>
+</history>
