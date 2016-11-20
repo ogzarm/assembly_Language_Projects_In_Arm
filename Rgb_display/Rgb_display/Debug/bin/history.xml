@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -g2 -Map=Rgb_display.map -O0 --gc-sections -LC:\Users\pc\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\Rgb_display -TC:\Users\pc\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\Rgb_display/arm-gcc-link.ld -g -L..\..\.. -luart_utils_lib">
+      <target file="Rgb_display.elf" lastModified="1587ddffad4">
+         <source file="..\..\..\libuart_utils_lib.a" lastModified="15875f9d94a"/>
+         <source file="..\obj\main.o" lastModified="1587ddff895"/>
+         <source file="..\obj\startup_stm32f407xx.o" lastModified="1587ddff8aa"/>
+      </target>
+   </processor>
+</history>

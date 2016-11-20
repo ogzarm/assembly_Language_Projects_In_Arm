@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -g2 -Map=stepMotor.map -O0 --gc-sections -LC:\Users\pc\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\stepMotor -TC:\Users\pc\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\stepMotor/arm-gcc-link.ld -g -L..\..\..\..\..\..\..\.. -luart_utils_lib">
+      <target file="stepMotor.elf" lastModified="15852329c75">
+         <source file="..\..\..\..\..\..\..\..\libuart_utils_lib.a" lastModified="15851f71eef"/>
+         <source file="..\obj\main.o" lastModified="15852329a60"/>
+         <source file="..\obj\startup_stm32f407xx.o" lastModified="15852329a77"/>
+      </target>
+   </processor>
+</history>

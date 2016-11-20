@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -g2 -Wall -O0 -c -DSTM32F415RG -I..\..\..\..\..\..\..\Desktop\ogzarm\mySoftware\CooCox_projects\lab5\stepMotor">
+      <target file="startup_stm32f407xx.o" lastModified="15852329a77">
+         <source file="..\..\..\startup_stm32f407xx.s" lastModified="158263cfd69"/>
+      </target>
+      <target file="main.o" lastModified="15852329a60">
+         <source file="..\..\..\main.s" lastModified="1585230bedd"/>
+      </target>
+   </processor>
+</history>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -g2 -Wall -O0 -c -DSTM32F415RG -I..\..\..\..\..\..\..\Desktop\ogzarm\mySoftware\CooCox_projects\lab6\Rgb_display">
+      <target file="startup_stm32f407xx.o" lastModified="1587ddff8aa">
+         <source file="..\..\..\startup_stm32f407xx.s" lastModified="158263cfd69"/>
+      </target>
+      <target file="main.o" lastModified="1587ddff895">
+         <source file="..\..\..\main.s" lastModified="1587ddff278"/>
+      </target>
+   </processor>
+</history>
